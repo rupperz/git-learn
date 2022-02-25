@@ -1,3 +1,4 @@
 Hello Git from Phphstorm
 Adding new changes
 Testing of new branch merge
+Hello again
