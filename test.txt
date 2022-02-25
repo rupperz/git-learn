@@ -1,3 +1,2 @@
 Hello Git from Phphstorm
 Adding new changes
-Adding again new line
